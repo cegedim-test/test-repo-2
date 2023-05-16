@@ -1,1 +1,1 @@
-Wow, another interesting file!
+Wow, another interesting file! Even more so now it has been edited in a branch.
